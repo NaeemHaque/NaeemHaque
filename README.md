@@ -2,10 +2,12 @@
 
 This is Gulam Sarwer Naeem and I'm from Sylhet, Bangladesh. I'm a software developer and currently working on MEVN stack. I am a quick learner and flexible to changes in the plans of senior and mentors. I really enjoy learning languages and frameworks. I like programming and my life goal is to help people with code.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaeemHaque&theme=dark&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaeemHaque&theme=dark&show_icons=true) -->
 
 <!--
 **NaeemHaque/NaeemHaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
