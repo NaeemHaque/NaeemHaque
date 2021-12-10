@@ -24,3 +24,5 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaeemHaque)  
 
 ![Profile views](https://gpvc.arturio.dev/NaeemHaque)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NaeemHaque)  
