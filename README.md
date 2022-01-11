@@ -21,7 +21,6 @@
 ##### 👉 Feel free to knock me.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NaeemHaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gulam-sarwer-8626101a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/haque_naeem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@NaeemHaque5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/NaeemHaque#7966) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NaeemHaque)  
 
 ![Profile views](https://gpvc.arturio.dev/NaeemHaque)  
 
