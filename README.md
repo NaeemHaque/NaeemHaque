@@ -1,7 +1,7 @@
-![Anurag's GitHub stats](https://github.com/NaeemHaque/NaeemHaque/blob/main/mevn-light.png)
+![Anurag's GitHub stats](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-engineer&psig=AOvVaw3X80A6wW3vbubJZGKIIRwX&ust=1643434796146000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDnyfDd0_UCFQAAAAAdAAAAABAD)
 
 ### Hi there 👋, This is Naeem 👨‍💻
- I'm from Sylhet, Bangladesh. I'm a software engineer and currently working on MEVN stack. I am a quick learner and flexible to changes in the plans of senior and mentors. I really enjoy learning languages and frameworks. I like programming and my life goal is to help people with code.
+ I'm from Sylhet, Bangladesh. I'm a software engineer and currently working @WPManageNinja. I am a quick learner and flexible to changes in the plans of senior and mentors. I really enjoy learning languages and frameworks. I like programming and my life goal is to help people with code.
 
 ### 💻 Languages 
 
