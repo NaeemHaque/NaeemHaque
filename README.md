@@ -1,6 +1,5 @@
-![Naeem's GitHub](https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/programmer.gif)
 <div>
-   <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/programmer.gif" width="100%" style="display: flex; justify-content: center;" >
+   <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/programmer.gif" width="100%" height="450px" style="display: flex; justify-content: center;" >
 </div>
 
 ### Hi there 👋, This is Naeem 👨‍💻
