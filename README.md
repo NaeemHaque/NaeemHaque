@@ -1,4 +1,7 @@
 ![Naeem's GitHub](https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/programmer.gif)
+<div>
+   <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/programmer.gif" width="100%" style="display: flex; justify-content: center;" >
+</div>
 
 ### Hi there 👋, This is Naeem 👨‍💻
  I'm from Sylhet, Bangladesh. I'm a software engineer and currently working <a href="https://github.com/WPManageNinja">WPManageNinja</a>  . I am a quick learner and flexible to changes in the plans of senior and mentors. I really enjoy learning languages and frameworks. I like programming and my life goal is to help people with code.
