@@ -3,9 +3,7 @@
 </div>
 
 ### Hi there 👋, This is Naeem 👨‍💻
-
-Hello there, 
-This is Naeem. I belongs to Sylhet, Bangladesh. I am a Software Engineer and currently working on the <a href="https://github.com/WPManageNinja">WPManageNinja</a> team. I am graduated from Sylhet International University in the Department of Computer Science and Engineering. I am a quick learner and flexible to changes in the plans of seniors and mentors. I am very attentive towards each and every detail while working. I like programming. Nowadays, I spend my whole day, practically every day, experimenting with software development. I really enjoy learning languages and frameworks. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the development. I am a very good team worker. I believe in the power of collaboration, teamwork, and growing together. My life goal is to help people with code.
+I belongs to Sylhet, Bangladesh. I am a Software Engineer and currently working on the <a href="https://github.com/WPManageNinja">WPManageNinja</a> team. I am graduated from Sylhet International University in the Department of Computer Science and Engineering. I am a quick learner and flexible to changes in the plans of seniors and mentors. I am very attentive towards each and every detail while working. I like programming. Nowadays, I spend my whole day, practically every day, experimenting with software development. I really enjoy learning languages and frameworks. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the development. I am a very good team worker. I believe in the power of collaboration, teamwork, and growing together. My life goal is to help people with code.
 
 ### 💻 Languages 
 
@@ -27,5 +25,3 @@ This is Naeem. I belongs to Sylhet, Bangladesh. I am a Software Engineer and cur
 
 
 ![Profile views](https://gpvc.arturio.dev/NaeemHaque)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NaeemHaque)  
