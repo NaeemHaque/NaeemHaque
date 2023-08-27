@@ -34,7 +34,7 @@ Thank you
 
 ### 📋 Databases
 
-<img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/firebase.gif" width="110px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/oracle.gif" width="115px"> -->
+<img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/firebase.gif" width="110px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/oracle.gif" width="115px"> 
 
 
 <p align="center">
