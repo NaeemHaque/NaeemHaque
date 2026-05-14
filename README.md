@@ -2,15 +2,18 @@
    <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/programmer.gif" width="100%" height="400px" style="display: flex; justify-content: center;" >
 </div>
 
-### Hi there 👋, This is Naeem 👨‍💻
-<p style="text-align: justify;">
-I am a passionate software engineer with a passion for programming. I am currently a core member of the <a href="https://github.com/WPManageNinja"><strong>WPManageNinja</strong></a> team, & <a href="https://authlab.io"><strong>authLab</strong></a> where I work on developing software solutions that help people achieve their goals.
+### Hi there 👋
 
-I am a <a href="https://wordpress.org"><strong>WordPress</strong></a> core contributor, significantly contributing to the platform that powers millions of websites worldwide. I am contributing to WordPress <strong>Core</strong>, <strong>Plugins</strong>, <strong>Polyglots</strong>, and <strong>Photos</strong> teams. I am always eager to learn and experiment with software development, and I find it challenging and rewarding to work on projects that stretch me in different directions.
+I'm **Golam Sarwer Naeem**—software engineer and open source contributor, pretty obsessed with building scalable products, developer tools, and web apps.
 
-I believe in the power of collaboration and teamwork, and I do my best to foster an environment that encourages growth and development among my colleagues. I am a very attentive worker, always paying close attention to each detail while working, and adaptable to changes in plans and goals.
-   
-Thank you
+Right now, I’m part of the team at WPManageNinja, where I work on WordPress product engineering and help build software solutions used by millions of users and businesses worldwide.
+
+Besides my job, I contributed to the <a href="https://wordpress.org"><strong>WordPress Open Source Project </strong></a> — including Core, Plugins, Meta, Polyglots, and Photos — as well as <a href="https://wordpress.org](https://github.com/emdash-cms/emdash)"><strong>EmDash CMS.</strong></a> I enjoy being part of open source, fixing issues, and working with communities that build impactful products.
+
+AI is a big part of my daily workflow now — I'm exploring it and using it to automate parts of my development process, mostly for research, planning new features, development, and debugging. Alongside that, I build scalable web apps and backend systems with PHP, Laravel, MySQL, REST APIs, Vue.js, WordPress, and Tailwind CSS, keeping a close eye on architecture and clean code. 
+
+I studied Computer Science and Engineering at Sylhet International University. Back in university, I spent a lot of time in programming contests—those gave me a sharp eye for detail and taught me how to think on my feet. I believe the best software comes from nonstop learning, trying new things, and working with others. That's what keeps me inspired.
+
 </p>
 
 
@@ -19,23 +22,6 @@ Thank you
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NaeemHaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gulam-sarwer-8626101a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/haque_naeem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@NaeemHaque5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/NaeemHaque#7966) 
 
 
-
-
-<!-- 
-### 💻 Languages 
-
-<img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/c.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/c%2B%2B.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/java.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/js.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/php.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/python.gif" width="90px">
-
-
-### 🛠️ Tools and Technologies
-
-<img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/html.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/css.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/bootstrap.jpg" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/vue.gif" width="115px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/vuetify.png" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/nodejs.gif" width="90px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/cisco.gif" width="90px">
-
-
-### 📋 Databases
-
-<img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/firebase.gif" width="110px"> <img src="https://github.com/NaeemHaque/NaeemHaque/blob/main/gif/oracle.gif" width="115px"> 
--->
 
 <p align="center">
   <a href="https://github.com/naeemHaque">
