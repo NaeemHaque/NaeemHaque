@@ -56,19 +56,13 @@ I studied Computer Science and Engineering at **Sylhet International University*
 
 <div align="center">
 
-<a href="https://github.com/NaeemHaque">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/gulam-sarwer-8626101a3/">
+<a href="https://www.linkedin.com/in/golam-sarwer-8626101a3/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/haque_naeem/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://twitter.com/NaeemHaque5">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://discord.com/channels/NaeemHaque#7966">
+<a href="https://discord.com/channels/naeemhaque">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
