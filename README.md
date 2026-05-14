@@ -81,26 +81,7 @@ I studied Computer Science and Engineering at **Sylhet International University*
 <br/><br/>
 
 <a href="https://github.com/naeemHaque">
-  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=naeemhaque&show_icons=true&count_private=true&theme=react&border_color=3B82F6&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Naeem's GitHub Stats" />
-  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naeemhaque&langs_count=8&layout=compact&theme=react&border_color=3B82F6&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Naeem's Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/naeemHaque">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeemhaque&theme=radical" alt="Naeem's GitHub Contribution" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/naeemHaque">
-  <img src="https://github-profile-trophy.vercel.app/?username=naeemhaque&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 </a>
 
 </div>
